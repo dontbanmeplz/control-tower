@@ -18,4 +18,4 @@ Then run `./check`
 2. Download and run setup.exe from [here](https://github.com/dontbanmeplz/control-tower/releases/download/release/setup.exe)
 3. Put all testflight links in a text file
 4. Run your releases file
-!(pictures/startup.png)
+![picture](pictures/startup.png)
